@@ -1,0 +1,10 @@
+{
+    "title":        "Swapper",
+    "type":         "tool",
+    "tags":         ["build"],
+    "description":  "Tool to swap two things (WIP)",
+    "ignore":
+    [
+        ".git*"
+    ]
+}
