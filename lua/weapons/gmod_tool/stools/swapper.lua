@@ -2,8 +2,6 @@
 TOOL.Category = "Construction"
 TOOL.Name = "#tool.swapper.name"
 
-TOOL.ClientConVar = {
-
 if CLIENT then
     language.Add("tool.swapper.name", "Swapper")
     language.Add("tool.swapper.desc", "Swaps two things")
